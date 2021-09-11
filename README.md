@@ -1,3 +1,7 @@
 # evidencia02
 
-Sebastian Calfunao, Pablo Rain, German Lagos
+#Nombres:
+
+Sebastian Calfunao, Pablo Rain, German Lagos, Camilo Painenao
+
+#  comentarios y conclusiones de esta actividad
